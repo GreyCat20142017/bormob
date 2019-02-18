@@ -1,0 +1,14 @@
+.DS_Store
+.idea
+.vscode
+node_modules
+bin
+public
+*.ai
+*.log
+*.pdf
+*.psd
+*.sublime*
+Thumbs.db
+vendor
+
